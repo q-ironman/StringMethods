@@ -1,0 +1,13 @@
+C:\Users\OSMAN\Desktop\Dersler\C#\Denemeler\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.csprojAssemblyReference.cache
+C:\Users\OSMAN\Desktop\Dersler\C#\Denemeler\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.AssemblyInfoInputs.cache
+C:\Users\OSMAN\Desktop\Dersler\C#\Denemeler\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.AssemblyInfo.cs
+C:\Users\OSMAN\Desktop\Dersler\C#\Denemeler\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\OSMAN\Desktop\Dersler\C#\Denemeler\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.exe
+C:\Users\OSMAN\Desktop\Dersler\C#\Denemeler\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.deps.json
+C:\Users\OSMAN\Desktop\Dersler\C#\Denemeler\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.runtimeconfig.json
+C:\Users\OSMAN\Desktop\Dersler\C#\Denemeler\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.runtimeconfig.dev.json
+C:\Users\OSMAN\Desktop\Dersler\C#\Denemeler\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.dll
+C:\Users\OSMAN\Desktop\Dersler\C#\Denemeler\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.pdb
+C:\Users\OSMAN\Desktop\Dersler\C#\Denemeler\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.dll
+C:\Users\OSMAN\Desktop\Dersler\C#\Denemeler\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.pdb
+C:\Users\OSMAN\Desktop\Dersler\C#\Denemeler\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.genruntimeconfig.cache
